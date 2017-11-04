@@ -1,0 +1,136 @@
+body {
+	background:#f1f1f1;
+	margin:0 auto;
+
+	font-size:12px
+}
+
+a {
+	color:#535353;
+
+}
+
+.ui_guifan {
+	width:1118px;
+	background:#fff;
+	margin-bottom:30px;
+	float:left;
+	padding:0 40px 40px 40px
+}
+.ui_guifan h2 {
+	color:#e74987;
+	font-size:18px;
+	font-weight:600;
+	margin:40px 0 10px 0;
+	font-family:"Microsoft Yahei","Verdana","ºÚÌå";
+}
+.ui_guifan h3 {
+	font-size:14px;
+	text-decoration:underline;
+}
+.ui_guifan table {
+	width:100%;
+	border:1px solid #ccc;
+	margin-bottom:10px
+}
+.ui_guifan table td {
+	padding:5px 0;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc
+}
+.ui_guifan table .tit td {
+	font-size:16px;
+	background:#f5f5f5
+}
+.ui_guifan .gray {
+	background:#fafafa
+}
+.ui_guifan p {
+	margin-bottom:10px
+}
+.ui_guifan img {
+	display:block;
+	margin:20px 0 40px 0
+}
+#mod_tad_1 {
+	margin:30px 0 0 0
+}
+#mod_tad_1 table {
+	border-collapse:collapse
+}
+#mod_tad_1 tr,#mod_tad_1 td {
+	border:1px #dfdfdf solid;
+	padding:10px 25px;
+	text-align:center
+}
+#mod_tad_1 td span {
+	float:left;
+	padding:8px!important
+}
+#mod_tad_1 th {
+	border:1px #dfdfdf solid;
+	background-color:#f2f2f2;
+	color:#000;
+	font-size:15px;
+	font-weight:800;
+	padding:15px 0
+}
+#mod_tad_1 td {
+	background-color:#FFF;
+	font-size:13px
+}
+#mod_tad_1 td.tad_fir {
+	text-align:left;
+	background-color:#f9f9f9;
+	width:200px;
+	padding:10px 0
+}
+#mod_tad_1 td.tad_fir img {
+	float:left;
+	margin:0 0 0 18px
+}
+#mod_tad_1 td.tad_fir p {
+	float:left;
+	margin:10px 0 0 10px;
+	font-size:14px;
+	width:140px
+}
+#mod_tad_1 td.tad_fir p.tad_td {
+	margin:5px 0 0 10px;
+	font-size:12px
+}
+#mod_tad_1 td.tad_fir2 {
+	text-align:left;
+	background-color:#f9f9f9;
+	width:260px;
+	padding:10px 0
+}
+#mod_tad_1 td.tad_fir2 img {
+	float:left;
+	margin:0 0 0 18px
+}
+#mod_tad_1 td.tad_fir2 p {
+	float:left;
+	margin:10px 0 0 10px;
+	font-size:14px;
+	width:180px
+}
+#mod_tad_1 td.tad_fir2 p em {
+	color:#999;
+	font-size:12px;
+	font-style:normal;
+	font-family:Verdana,Geneva,sans-serif
+}
+#mod_tad_1 td.tad_fir2 p.tad_td {
+	margin:5px 0 0 10px;
+	font-size:12px
+}
+#mod_tad_1 td.tad_fir_1 {
+	background-color:#f9f9f9;
+	width:210px;
+	padding:10px 0
+}
+#mod_tad_1 td.tad_fir_1 p {
+	font-size:16px
+}
+
